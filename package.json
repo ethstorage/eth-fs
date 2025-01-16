@@ -16,9 +16,10 @@
   "dependencies": {
     "colors-cli": "^1.0.33",
     "commander": "^11.1.0",
+    "dotenv": "^16.4.7",
     "eth-ens-namehash": "^2.0.8",
     "ethers": "^6.13.1",
-    "ethstorage-sdk": "^2.1.5",
+    "ethstorage-sdk": "^3.0.0",
     "js-sha3": "^0.8.0",
     "ora": "^5.4.1",
     "rxjs": "^7.8.1"
